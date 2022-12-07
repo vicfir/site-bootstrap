@@ -10773,4 +10773,12 @@ nav img {
   width: 80px;
 }
 
+#sect1 {
+  width: 100%;
+}
+#sect1 img {
+  width: 100%;
+  height: 350px;
+}
+
 /*# sourceMappingURL=style.css.map */
